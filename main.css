@@ -4,6 +4,90 @@
 }
 .topbar{
 	background-color: #118BC0;
-	text-align: center;
 }
+.main{
+	background-color: #344051;
+	height: 100em;
+	box-sizing: 10em;
+	padding-top: 10em;
+}
+h1{
+	color: white;
+	text-align: center;
+	margin-bottom: 2em;
+}
+h3{
+	color: white;
+	text-align: center;
+	margin-bottom: 2em;
+}
+.button1{
+	background-color: #118BC0;
+	height: 5em;
+	width: 15em;
+	margin: 0 auto 0 auto;
+	border: 16px solid: #212934;
+	box-sizing: 6em;
+	text-align: center;
+	
+}
+.learn-more-arrow{
+	background-color: white;
+	height: 1em;
+	width: 2em;
+	margin: 0 auto 0 auto;
+}
+.main-link1{
+	background-color: #ffffff;
+	height: 7em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+}
+.main-link2{
+	background-color: #ffffff;
+	height: 7em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+}
+.main-link3{
+	background-color: #ffffff;
+	height: 7em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+}
+.text-box{
+	background-color: #E8F0F5;
+	height: 20em;
+}
+.sales-boxes{
+	background-color: white;
+	margin: 0 auto 0 auto;
+
+}
+.sales-boxes{
+	background-color: #D1D3D7;
+	height: 100em;
+	box-sizing: 10em;
+	margin: 0 auto 0 auto;
+}
+.easy-to-use{
+	background-color: white;
+	height: 10em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+}
+.your-own-domain{
+	background-color: white;
+	height: 10em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+}
+.seo-friendly{
+	background-color: white;
+	height: 10em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+}
+
+
 
