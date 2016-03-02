@@ -1,9 +1,25 @@
+
+.topbar{
+	background-color: #118BC0;
+	overflow: hidden;
+	clear: both;
+}
 .image_box{
 	background-color: #118BC0;
 	width: 45px;
+	display: inline-block;
 }
-.topbar{
+.topbar span{
+	float: left;
+	display: inline-block;
+	vertical-align: center;
+}
+.login-box{
 	background-color: #118BC0;
+	height: 3em;
+	width: 3em;
+	float: right;
+
 }
 .main{
 	background-color: #344051;
@@ -55,20 +71,13 @@ h3{
 	width: 20em;
 	margin: 0 auto 0 auto;
 }
-.text-box{
+.freewb{
 	background-color: #E8F0F5;
 	height: 20em;
 }
 .sales-boxes{
-	background-color: white;
-	margin: 0 auto 0 auto;
-
-}
-.sales-boxes{
 	background-color: #D1D3D7;
 	height: 100em;
-	box-sizing: 10em;
-	margin: 0 auto 0 auto;
 }
 .easy-to-use{
 	background-color: white;
@@ -87,6 +96,12 @@ h3{
 	height: 10em;
 	width: 20em;
 	margin: 0 auto 0 auto;
+}
+.percent{
+	background-color: #E8F0F5;
+}
+footer{
+	background-color: black
 }
 
 
