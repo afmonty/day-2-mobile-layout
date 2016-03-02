@@ -1,6 +1,7 @@
 
 .topbar{
 	background-color: #118BC0;
+	display: inline-block;
 	overflow: hidden;
 	clear: both;
 }
@@ -16,10 +17,11 @@
 }
 .login-box{
 	background-color: #118BC0;
+	color: white;
+	text-align: center;
 	height: 3em;
 	width: 3em;
 	float: right;
-
 }
 .main{
 	background-color: #344051;
@@ -42,10 +44,10 @@ h3{
 	height: 5em;
 	width: 15em;
 	margin: 0 auto 0 auto;
-	border: 16px solid: #212934;
+	border: 16px solid #212934;
 	box-sizing: 6em;
 	text-align: center;
-	
+	color: white;
 }
 .learn-more-arrow{
 	background-color: white;
@@ -73,7 +75,9 @@ h3{
 }
 .freewb{
 	background-color: #E8F0F5;
-	height: 20em;
+	font-size: 20px;
+	text-align: center;
+	padding: 1em;
 }
 .sales-boxes{
 	background-color: #D1D3D7;
@@ -81,28 +85,62 @@ h3{
 }
 .easy-to-use{
 	background-color: white;
-	height: 10em;
-	width: 20em;
+	height: 227px;
+	width: 439px;
 	margin: 0 auto 0 auto;
+	padding: 5em;
 }
 .your-own-domain{
 	background-color: white;
 	height: 10em;
 	width: 20em;
 	margin: 0 auto 0 auto;
+	padding-top: 5em;
 }
 .seo-friendly{
 	background-color: white;
 	height: 10em;
 	width: 20em;
 	margin: 0 auto 0 auto;
+	padding: 5em;
 }
 .percent{
 	background-color: #E8F0F5;
+	text-align: center;
+	vertical-align: center;
+}
+.percent p{
+	font-size: 25px;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.create-website{
+	background-color: #118BC0;
+	height: 5em;
+	width: 15em;
+	margin: 0 auto 0 auto;
+	box-sizing: 6em;
+	text-align: center;
+	color: white;
 }
 footer{
-	background-color: black
+	background-color: black;
+	text-decoration-color: white;
 }
+li{
+	color: white;
+	float: left;
+	display: inline-block;
+	padding: .2em;
+}
+.footer div{
+	display: block;
+	height: 5em;
+	width: 10em;
+	background-color: #118BC0;
+	color: white;
+} 
+
 
 
 
