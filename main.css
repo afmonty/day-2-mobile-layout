@@ -1,33 +1,35 @@
 
 .topbar{
 	background-color: #118BC0;
-	display: inline-block;
+	height: 4em;
 	overflow: hidden;
-	clear: both;
+
 }
-.image_box{
-	background-color: #118BC0;
-	width: 45px;
-	display: inline-block;
-}
-.topbar span{
+.img{
+	background-color: white;
+	height: 95%;
+	width: 10%;
 	float: left;
 	display: inline-block;
-	vertical-align: center;
+	
+}
+.topbar span{
+	padding: .2em;
+	float: left;
+	display: inline-block;
+	vertical-align: middle;
 }
 .login-box{
-	background-color: #118BC0;
+	background-color: #0070A4;
 	color: white;
 	text-align: center;
-	height: 3em;
-	width: 3em;
+	height: 95%;
+	width: 10%;
 	float: right;
 }
 .main{
 	background-color: #344051;
-	height: 100em;
-	box-sizing: 10em;
-	padding-top: 10em;
+	height: 70em;
 }
 h1{
 	color: white;
@@ -44,70 +46,99 @@ h3{
 	height: 5em;
 	width: 15em;
 	margin: 0 auto 0 auto;
+	margin-bottom: 5em;
 	border: 16px solid #212934;
-	box-sizing: 6em;
-	text-align: center;
 	color: white;
+	text-align: center;
 }
 .learn-more-arrow{
 	background-color: white;
-	height: 1em;
+	height: 2em;
 	width: 2em;
 	margin: 0 auto 0 auto;
+	margin-bottom: 4em;
+	padding: 1em;
 }
 .main-link1{
 	background-color: #ffffff;
 	height: 7em;
 	width: 20em;
 	margin: 0 auto 0 auto;
+	margin-bottom: 1em;
 }
 .main-link2{
 	background-color: #ffffff;
 	height: 7em;
 	width: 20em;
 	margin: 0 auto 0 auto;
+	margin-bottom: 1em;
 }
 .main-link3{
 	background-color: #ffffff;
 	height: 7em;
 	width: 20em;
 	margin: 0 auto 0 auto;
+	margin-bottom: 1em;
 }
 .freewb{
 	background-color: #E8F0F5;
 	font-size: 20px;
 	text-align: center;
 	padding: 1em;
+	margin-top: 5em;
 }
 .sales-boxes{
 	background-color: #D1D3D7;
-	height: 100em;
+	padding-bottom: 2em
+
 }
 .easy-to-use{
 	background-color: white;
-	height: 227px;
-	width: 439px;
+	height: 10em;
+	width: 20em;
 	margin: 0 auto 0 auto;
-	padding: 5em;
+	margin-bottom: 1em;
 }
 .your-own-domain{
 	background-color: white;
 	height: 10em;
 	width: 20em;
 	margin: 0 auto 0 auto;
-	padding-top: 5em;
+	margin-bottom: 1em;
 }
 .seo-friendly{
 	background-color: white;
 	height: 10em;
 	width: 20em;
 	margin: 0 auto 0 auto;
-	padding: 5em;
+	margin-bottom: 1em;
+}
+.best-support{
+	background-color: white;
+	height: 10em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+	margin-bottom: 1em;
+}
+.premium-plans{
+	background-color: white;
+	height: 10em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+	margin-bottom: 1em;
+}	
+.mil-users{
+	background-color: white;
+	height: 10em;
+	width: 20em;
+	margin: 0 auto 0 auto;
+	padding-bottom: 1em;
 }
 .percent{
 	background-color: #E8F0F5;
 	text-align: center;
 	vertical-align: center;
+	padding: 1em
 }
 .percent p{
 	font-size: 25px;
@@ -125,21 +156,20 @@ h3{
 }
 footer{
 	background-color: black;
-	text-decoration-color: white;
+	overflow: hidden;
 }
 li{
 	color: white;
-	float: left;
+	float: ;
 	display: inline-block;
-	padding: .2em;
+	padding: .5em;
 }
-.footer div{
-	display: block;
-	height: 5em;
-	width: 10em;
-	background-color: #118BC0;
+.auto{
+	margin: 0 auto 0 auto;
+	background-color: black;
 	color: white;
-} 
+	text-align: center;
+	padding: 1em;
 
 
 
