@@ -1,18 +1,16 @@
 
 .topbar{
 	background-color: #118BC0;
-	height: 4em;
 	overflow: hidden;
-
 }
 .img{
 	background-color: #118BC0;
 	height: 95%;
 	width: 10%;
 	float: left;
-	
 }
 .topbar span{
+	color: white;
 	padding: .5em;
 	float: left;
 }
@@ -20,12 +18,12 @@
 	background-color: #0070A4;
 	color: white;
 	text-align: center;
-	height: 95%;
-	width: 10%;
+	height: 3em;
+	width: 3em;
 	float: right;
 }
 .main{
-	background-color: #344051;
+	background-image: url(https://image.freepik.com/free-vector/crowd-in-a-party-silhouettes_1048-865.jpg);
 	height: 70em;
 	padding-top: 1em;
 }
@@ -58,23 +56,26 @@ h3{
 	padding: 1em;
 }
 .main-link1{
-	background-color: #ffffff;
+	color: white;
 	height: 7em;
 	width: 20em;
+	text-align: center;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 }
 .main-link2{
-	background-color: #ffffff;
+	color: white;
 	height: 7em;
 	width: 20em;
+	text-align: center;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 }
 .main-link3{
-	background-color: #ffffff;
+	color: white;
 	height: 7em;
 	width: 20em;
+	text-align: center;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 }
@@ -95,6 +96,7 @@ h3{
 	width: 2em;
 	display: block;
 	margin: 0 auto 0 auto;
+	clear: both;
 }
 .easy-to-use{
 	background-color: white;
@@ -160,7 +162,6 @@ h3{
 }
 .percent p{
 	font-size: 25px;
-	padding-top: 1em;
 	padding-bottom: 1em;
 }
 .create-website{
