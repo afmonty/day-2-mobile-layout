@@ -1,4 +1,5 @@
 
+
 .topbar{
 	background-color: #118BC0;
 	overflow: hidden;
@@ -43,30 +44,34 @@ h3{
 	width: 15em;
 	margin: 0 auto 0 auto;
 	margin-bottom: 5em;
-	border: 16px solid #212934;
-	color: white;
+	border: 16px solid rgba(255, 255, 255, .5);
+	box-sizing: border-box;
 	text-align: center;
 }
 .learn-more-arrow{
 	background-color: white;
-	height: 3em;
-	width: 3em;
+	height: 1em;
+	width: 2em;
 	display: block;
 	margin: 0 auto 0 auto;
-	margin-bottom: 4em;
+	margin-bottom: 7em;
 	padding: 1em;
 }
 .main-link1{
-	background-color: grey;
 	color: white;
 	height: 7em;
 	width: 20em;
 	text-align: center;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
+}
+.main-link1 img{
+	background color: white;
+	height: 2em;
+	width: 2em;
+	float: left;
 }
 .main-link2{
-	background-color: grey;
 	color: white;
 	height: 7em;
 	width: 20em;
@@ -74,14 +79,25 @@ h3{
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 }
+.main-link2 img{
+	background-color: white;
+	height: 2em;
+	width: 2em;
+	float: left;
+}
 .main-link3{
-	background-color: grey;
 	color: white;
 	height: 7em;
 	width: 20em;
 	text-align: center;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
+}
+.main-link3 img{
+	background-color: white;
+	height: 2em;
+	width: 2em;
+	float: left;
 }
 .freewb{
 	background-color: #E8F0F5;
@@ -92,20 +108,23 @@ h3{
 }
 .sales-boxes{
 	background-color: #D1D3D7;
-	padding-bottom: 2em
-	padding-top:1em;
+	padding-bottom: 2em;
+	padding-top: 2em;
 }
 .sales-boxes img{
-	height: 2em;
-	width: 2em;
+	height: 3em;
+	width: 3em;
 	display: block;
 	margin: 0 auto 0 auto;
 	clear: both;
+	border-radius: 50%;
+	background-color: #D1D3D7;
+	padding: .25em;
 }
 .easy-to-use{
 	background-color: white;
 	height: 10em;
-	width: 20em;
+	width: 90%;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 	text-align: center;
@@ -114,7 +133,7 @@ h3{
 .your-own-domain{
 	background-color: white;
 	height: 10em;
-	width: 20em;
+	width: 90%;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 	text-align: center;
@@ -124,7 +143,7 @@ h3{
 .seo-friendly{
 	background-color: white;
 	height: 10em;
-	width: 20em;
+	width: 90%;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 	text-align: center;
@@ -133,7 +152,7 @@ h3{
 .best-support{
 	background-color: white;
 	height: 10em;
-	width: 20em;
+	width: 90%;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 	text-align: center;
@@ -143,7 +162,7 @@ h3{
 .premium-plans{
 	background-color: white;
 	height: 10em;
-	width: 20em;
+	width: 90%;
 	margin: 0 auto 0 auto;
 	margin-bottom: 1em;
 	text-align: center;
@@ -152,10 +171,11 @@ h3{
 .mil-users{
 	background-color: white;
 	height: 10em;
-	width: 20em;
+	width: 90%;
 	margin: 0 auto 0 auto;
 	padding-top: 1em;
-	padding-bottom: 1em;
+	padding-bottom: 1.5em;
+
 	text-align: center;
 }
 .percent{
@@ -173,7 +193,7 @@ h3{
 	height: 5em;
 	width: 15em;
 	margin: 0 auto 0 auto;
-	box-sizing: 6em;
+
 	text-align: center;
 	color: white;
 }
