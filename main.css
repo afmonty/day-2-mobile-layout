@@ -208,12 +208,18 @@ h3{
 footer{
 	background-color: black;
 	overflow: hidden;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	padding-left: 3em;
 }
 li{
 	color: white;
-	float: ;
+	float: left;
+	text-align: center;
 	display: inline-block;
-	padding: .5em;
+	padding-top: .5em;
+	padding-left: 1em;
+
 }
 .auto{
 	margin: 0 auto 0 auto;
