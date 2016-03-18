@@ -6,26 +6,25 @@
 }
 .img{
 	background-color: #118BC0;
-	height: 95%;
-	width: 10%;
+	width: 3em;
 	float: left;
 }
 .topbar span{
 	color: white;
-	padding: .5em;
+	padding: 1em;
 	float: left;
 }
 .login-box{
 	background-color: #0070A4;
 	color: white;
 	text-align: center;
-	height: 3em;
-	width: 3em;
+	height: 4em;
+	width: 4em;
 	float: right;
 }
 .main{
-	background-image: url(https://image.freepik.com/free-vector/crowd-in-a-party-silhouettes_1048-865.jpg);
-	height: 70em;
+	background-image: url(https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2/blob/master/images/crowd.jpg?raw=true);
+	height: 75em;
 	padding-top: 1em;
 }
 h1{
@@ -36,26 +35,36 @@ h1{
 h3{
 	color: white;
 	text-align: center;
-	margin-bottom: 2em;
+	margin-bottom: 5em;
+}
+.btnHolder{
+	height: 5em;
+	width: 15em;
+	padding-top: 2em;
+	margin: auto auto;
+	margin-bottom: 5em;
+	background-color: none;
+	text-align: center;
 }
 .button1{
 	background-color: #118BC0;
-	height: 5em;
-	width: 15em;
+	height: 3em;
+	width: 13em;
 	margin: 0 auto 0 auto;
-	margin-bottom: 5em;
-	border: 16px solid rgba(255, 255, 255, .5);
+	padding-top: .5em;
 	box-sizing: border-box;
 	text-align: center;
 }
 .learn-more-arrow{
-	background-color: white;
-	height: 1em;
-	width: 2em;
+	color: white;
+	font-size: 20pt;
+	text-align: cemter;
+	height: 5em;
+	width: 5em;
 	display: block;
 	margin: 0 auto 0 auto;
-	margin-bottom: 7em;
-	padding: 1em;
+	margin-bottom: 5em;
+	padding-left: 4em;
 }
 .main-link1{
 	color: white;
@@ -80,7 +89,6 @@ h3{
 	margin-bottom: 1em;
 }
 .main-link2 img{
-	background-color: white;
 	height: 2em;
 	width: 2em;
 	float: left;
@@ -94,17 +102,16 @@ h3{
 	margin-bottom: 1em;
 }
 .main-link3 img{
-	background-color: white;
 	height: 2em;
 	width: 2em;
 	float: left;
 }
 .freewb{
 	background-color: #E8F0F5;
-	font-size: 20px;
+	font-size: 25px;
+	line-height: 1.5;
 	text-align: center;
 	padding: 1em;
-	margin-top: 5em;
 }
 .sales-boxes{
 	background-color: #D1D3D7;
@@ -190,10 +197,11 @@ h3{
 }
 .create-website{
 	background-color: #118BC0;
-	height: 5em;
-	width: 15em;
+	font-size: 14pt;
+	height: 2.5em;
+	width: 10em;
+	padding-top: 1em;
 	margin: 0 auto 0 auto;
-
 	text-align: center;
 	color: white;
 }
